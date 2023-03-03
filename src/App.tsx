@@ -2,7 +2,7 @@ import './App.css';
 import React, { useState, useEffect, useCallback, useRef } from 'react'
 import { ChatClient } from './chat-client';
 
-const URL = 'wss://09xqig1wrd.execute-api.us-east-2.amazonaws.com/production/';
+const URL = ' wss://u6ji0p70b9.execute-api.us-east-1.amazonaws.com/produto_dev/';
 
 const App = () => {
   const socket = useRef<WebSocket | null>(null);
