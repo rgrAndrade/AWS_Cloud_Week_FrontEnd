@@ -1,10 +1,10 @@
- AWS Cloud Week - FrontEnd
+# AWS Cloud Week - FrontEnd
 
 BootCamp chat serverless na nuvem.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **AWS Cloud Week**
+| :sparkles: Nome        | **AWS Cloud Week - FrontEnd**
 | :label: Tecnologias | AWS, AWS Lambda Functions,React, AWS Amplify, DynamoDB,  Websocket API  (tecnologias utilizadas)
 | :rocket: URL         | Em Desenvolvimento
 | :fire: Desafio     | https://lp.dio.me/aws-cloud-week/
